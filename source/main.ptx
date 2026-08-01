@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <docinfo>
+
+    <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
+
+    <macros>\newcommand{\foo}{b^{ar}}</macros>
+    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+  </docinfo>
+
+   <article xml:id="INQS_syllabus">
+    <title>INQS 125 Game Theory in Popular Culture</title>
+    <section><title>Course Information</title>
+      <p>INQS 125 01</p>
+      <p>Fall 2026</p>
+      <p>MWF 11:00-12:05</p>
+      <p>Graf 117</p>
+
+
+      
+   <!-- <article xml:id="M150_syllabus">
+    <title>MATH 150 Precalculus</title>
+
+    <section><title>Course Information</title>
+        <p>MATH 150 01</p>
+        <p>Fall 2024</p>
+        <p>MTWRF 9:00-9:50</p>
+        <p>Taylor 105</p>
+
+        <p><url href="https://learn.linfield.edu/bbcswebdav/users/jfirkins/Math150/150F24_main.html">Course Webpage</url></p>
+     -->
+
+
+    
+</section>
+<!--all courses-->
+    <xi:include href="./instructorinfo.ptx" />
+
+    <!--INQS-->
+    <xi:include href="./description.ptx" />
+    <xi:include href="./coursematerials.ptx" />
+    <xi:include href="./objectives.ptx" />
+    <xi:include href="./topics.ptx" />
+    <xi:include href="./technology.ptx" />
+    <xi:include href="./writing.ptx" />
+    <xi:include href="./grading.ptx" />
+    <xi:include href="./dates.ptx" />
+    <xi:include href="./finalexamtime.ptx" />
+    <xi:include href="./policies.ptx" />
+
+
+    <!--Precalc-->
+    <!--<xi:include href="./descriptionM150.ptx" />
+    <xi:include href="./coursematerials150.ptx" />
+    <xi:include href="./objectives150.ptx" />
+    <xi:include href="./schedule.ptx" />
+    <xi:include href="./technology150.ptx" />
+    <xi:include href="./grading150.ptx" />
+    <xi:include href="./dates150.ptx" />
+    <xi:include href="./finalexamtime150.ptx" />
+    <xi:include href="./policiesmath.ptx" />-->
+
+    <!--All courses-->
+    <xi:include href="./boilerplate.ptx" />
+
+</pretext>
