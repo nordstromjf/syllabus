@@ -2,7 +2,8 @@
 <section xml:id="materials" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Materials</title>
 
-  <introduction><p>The following is a list of primary resources for the course. There may be additional readings distributed during the course.</p></introduction>
+  <introduction><p>The following is a list of primary resources for the course. 
+  There may be additional readings distributed during the course.</p></introduction>
 
   <subsection xml:id="SS_reqtext"><title>Required Texts</title>
 
@@ -10,9 +11,9 @@
     <ul>
     <li><pubtitle> Prisoner's Dilemma</pubtitle>, Poundstone, Doubleday, 1992.</li>
 
-    <li><pubtitle>The Mind Game</pubtitle>, MacDonald, Ballantine Books, 2000.</li>
+    <!--<li><pubtitle>The Mind Game</pubtitle>, MacDonald, Ballantine Books, 2000.</li>-->
 
-    <li><pubtitle>They Say I Say</pubtitle>, 4th ed.,  Graff and Birkenstein, Norton, 2018.</li>
+    <li><pubtitle>They Say I Say</pubtitle>, 6th ed.,  Graff and Birkenstein, Norton, 2024.</li>
 
   </ul></p>
 
@@ -22,10 +23,15 @@
 
 <p>These articles will be distributed in the course.
   <ul>
-    <li><q>Battles of Wits and Matters of Trust: Game Theory in Popular Culture,</q> Nordstrom,  <pubtitle>Mathematics and Popular Culture: Essays on Appearances in Film, Literature, Gaming, Television and Other Media</pubtitle>, eds, E. Sklar and J. Sklar, McFarland, 2012.</li>
+    <li><q>Battles of Wits and Matters of Trust: Game Theory in Popular Culture,</q> Nordstrom,  
+    <pubtitle>Mathematics and Popular Culture: Essays on Appearances in Film, Literature, Gaming, Television and Other 
+    Media</pubtitle>, eds, E. Sklar and J. Sklar, McFarland, 2012.</li>
 
-    <li><q>Game Theory and Literature,</q> Brams, <pubtitle>Games and Economic Behavior</pubtitle> ,  <alert>6</alert>, 32-54, 1994.</li>
-    <li><q>The Tale of Happiton,</q>  <pubtitle>Metamagical Themas: Questing for the Essence of Mind and Pattern</pubtitle>, Hofstadter, Basic Books, 1985.</li>
+    <li><q>Game Theory and Literature,</q> Brams, <pubtitle>Games and Economic Behavior</pubtitle> ,  
+    <alert>6</alert>, 32-54, 1994.</li>
+
+    <li><q>The Tale of Happiton,</q>  <pubtitle>Metamagical Themas: Questing for the Essence of Mind and Pattern</pubtitle>, 
+    Hofstadter, Basic Books, 1985.</li>
   </ul>
 </p>
 
@@ -35,6 +41,7 @@
   <ul>
     <li><pubtitle>Dr. Strangelove</pubtitle> (1964)</li>
     <li><pubtitle>Return to Paradise</pubtitle> (1998)</li>
+    <li><pubtitle>The Dark Knight</pubtitle> (2008)</li>
     <li><pubtitle>Crazy Rich Asians</pubtitle> (2018)</li>
     <li><pubtitle>Footloose</pubtitle> (1984)</li>
   </ul>

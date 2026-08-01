@@ -31,7 +31,10 @@
   
 
 
-<question xml:id="E_assumptions"><p>Consider a game-theoretic scenario in a novel or film or your choice. How is the situation affected by the assumptions? Do all of the players seem to be using the same assumptions? How do the assumptions differ from standard game theory? What is the director or writer trying to convey about the characters through game theory? Your essay should be 3-5 pages. </p></question>
+<question xml:id="E_assumptions"><p>Consider a game-theoretic scenario in a novel or film or your choice. How is the 
+situation affected by the assumptions? Do all of the players seem to be using the same assumptions? How do the assumptions 
+differ from standard game theory? What is the director or writer trying to convey about the characters through game theory? 
+Your essay should be 3-5 pages. </p></question>
 
 </subsection>
 
@@ -43,7 +46,7 @@
     <p>
       <ul>
         <li><p>Are these reasonable models for conflict?</p></li>
-        <li><p>How can we apply these to political and societal situations?</p></li>
+        <li><p>How can we apply these models to political and societal situations?</p></li>
       </ul>
     </p></li>
 
@@ -52,9 +55,10 @@
     <p>
   
     <ul>
-      <li><p><pubtitle>The Mind Game</pubtitle></p></li>
+      
       <!--<li><p><pubtitle>They Say, I Say</pubtitle></p></li>-->
       <li><p><pubtitle>Return to Paradise</pubtitle></p></li>
+      <li><p><pubtitle>The Dark Knight</pubtitle></p></li>
       <li><p><pubtitle>Crazy Rich Asians</pubtitle></p></li>
       <li><p><pubtitle>Footloose</pubtitle></p></li>
 
@@ -64,7 +68,20 @@
   
 
 
-<question xml:id="E_mindgame"><p> <pubtitle>The Mind Game</pubtitle> claims to have broad themes of game theory running throughout the story. Pick two characters in the story and relate their experience to game theory. For example, what game are they playing? What is the author trying to convey about the characters through the game? Is the author truly applying game theory? Is there a winner of the game? Did players choose optimal strategies? How would alternate strategies have changed the outcome of the game? You are encouraged to develop your own question connecting the novel and game theory. Be sure to provide evidence from the novel to support your claim. Your essay should be 3-5 pages. </p></question>
+<question xml:id="E_mindgame"><p> <pubtitle>The Dark Knight</pubtitle> and <pubtitle>Return to Paradise</pubtitle> 
+both use social dilemmas such as the Prisoner's Dilemma to comment on social issues such as trust and cooperation. 
+Pick two characters from the films (can be the same film or different films) and relate their experience, choices, 
+and motives to game theory. Some possible questions you can use to frame your essay:</p>
+<ul>
+  <li><p>What game are they playing? </p></li>
+  <li><p>What is the director trying to convey about the characters through the game? </p></li>
+  <li><p>Is the director truly applying game theory? </p></li>
+  <li><p>Is there a winner of the game? </p></li>
+  <li><p>Did players choose optimal strategies? </p></li>
+  <li><p>How would alternate strategies have changed the outcome of the game? </p></li>
+</ul>  
+<p>You are encouraged to develop your own question connecting the films and game theory. 
+Be sure to provide evidence from the film(s) to support your claim. Your essay should be 3-5 pages. </p></question>
 
 </subsection>
 
@@ -95,18 +112,14 @@
   
 
 
-<question xml:id="E_research"><title>Research Paper</title><p>Choose a game-theoretic dilemma and examine how it has been applied in literature, fiction, television, and/or film. What does this dilemma convey about the characters, story, or society? Your paper should cite at least three academic sources <em>and</em> at least three novels, films, or television shows.  Be sure to provide evidence to support your claim. You are encouraged to deviate from this basic frame with your own idea relating game theory to popular culture; however, you are required to get pre-approval for any paper idea that deviates significantly from the requirements. Your paper should be 8-10 pages. </p></question>
+<question xml:id="E_research"><title>Research Paper</title><p>Choose a game-theoretic dilemma and examine 
+how it has been applied in literature, fiction, television, and/or film. What does this dilemma convey about the 
+characters, story, or society? Your paper should cite at least three academic sources <em>and</em> at least three novels, 
+films, or television shows.  Be sure to provide evidence to support your claim. You are encouraged to deviate from this basic 
+frame with your own idea relating game theory to popular culture; however, you are required to get pre-approval for any paper 
+idea that deviates significantly from the requirements. Your paper should be 8-10 pages. </p></question>
 
 </subsection>
-
-
-
-
-
-
-  
-
-
 
 
   

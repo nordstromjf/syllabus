@@ -64,4 +64,5 @@
     <!--All courses-->
     <xi:include href="./boilerplate.ptx" />
 
+</article>
 </pretext>

@@ -2,47 +2,60 @@
 <section xml:id="boilerplate" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Linfield Policies</title>
 
-  <p><alert>Disability Statement:</alert> Students with disabilities are protected by the Americans with Disabilities Act and Section
-504 of the Rehabilitation Act. If you are a student with a disability and feel you may require academic accom-
-modations please contact Learning Support Services (LSS), as early as possible to request accommodation for your
-disability. The timeliness of your request will allow LSS to promptly arrange the details of your support. LSS is
-located in Melrose Hall 020 (503-883-2562), or <email>LSS@linfield.edu</email>. We also encourage students to communicate with
-faculty about their accommodations.</p>
+  <subsection xml:id="disability">  <title>Disability Statement:</title> 
+    <p>Students with disabilities are protected by the Americans with Disabilities Act and 
+    Section 504 of the Rehabilitation Act. If you are a student with a disability and feel you may require academic 
+    accommodations please contact Learning Support Services (LSS), as early as possible to request accommodation for your disability. 
+    The timeliness of your request will allow LSS to promptly arrange the details of your support. LSS is located in Melrose Hall 
+    020 (503-883-2562), or <email>LSS@linfield.edu</email>. We also encourage students to communicate with faculty about their 
+    accommodations.</p></subsection>
 
-<p><alert>Academic Integrity Policy:</alert> Linfield University operates under the assumption that all students are honest and ethical in the way they conduct their personal and scholastic lives. Academic work is evaluated on the assumption that the work presented is the student’s own, unless designated otherwise. Anything less is unacceptable and is considered a violation of academic integrity. Furthermore, a breach of academic integrity will have concrete consequences that may include failing a particular course or even dismissal from the university.  Violations of academic integrity include but are not limited to the following:</p>
+  <subsection xml:id="academicintegrity"><title>Academic Integrity Policy:</title> 
+    <p>Linfield University operates under the assumption that all students are 
+    honest and ethical in the way they conduct their personal and scholastic lives. Academic work is evaluated on the 
+    assumption that the work presented is the student’s own, unless designated otherwise. Anything less is unacceptable 
+    and is considered a violation of academic integrity. Furthermore, a breach of academic integrity will have concrete 
+    consequences that may include failing a particular course or even dismissal from the university.  Violations of 
+    academic integrity include but are not limited to the following:</p>
 
- <p>Cheating: Using or attempting to use unauthorized sources, materials, information, or study aids in any submitted academic work; changing answers after graded work has been returned; making unauthorized changes to an exam, quiz, or assignment.</p>
+ <p>Cheating: Using or attempting to use unauthorized sources, materials, information, or study aids in any submitted 
+ academic work; changing answers after graded work has been returned; making unauthorized changes to an exam, quiz, or 
+ assignment.</p>
 
-<p>Plagiarism: Submission of academic work that includes material copied or paraphrased from published or unpublished sources without proper documentation. This includes self-plagiarism, the submission of work created by the student for another class unless they receive consent from both instructors.</p>
+<p>Plagiarism: Submission of academic work that includes material copied or paraphrased from published or 
+unpublished sources without proper documentation. This includes self-plagiarism, the submission of work 
+created by the student for another class unless they receive consent from both instructors.</p>
 
  <p>Fabrication: Deliberate falsification or invention of any information, data, or citation in academic work.</p>
 
- <p>Facilitating Academic Dishonesty: Knowingly helping or attempting to help another to violate the university’s policy on academic integrity.</p>
+ <p>Facilitating Academic Dishonesty: Knowingly helping or attempting to help another to violate the university's 
+ policy on academic integrity.</p>
 
 <p>Any
 form of academic dishonesty will result in a 0 on that assignment/ quiz/ exam. Additionally, academic dishonesty
-may result in a failing grade in the course. See the <url href="https://catalog.linfield.edu/academic-policies-procedures/undergraduate/academic-integrity/" visual="catalog.linfield.edu/academic-policies-procedures">Linfield Acadmic Integrity Policy</url> in the Linfield Catalog for information on the procedure to be used in
-dealing with academic dishonesty.</p>
+may result in a failing grade in the course. See the 
+<url href="https://catalog.linfield.edu/academic-policies-procedures/undergraduate/academic-integrity/" 
+visual="catalog.linfield.edu/academic-policies-procedures">Linfield Academic Integrity Policy</url> in the Linfield Catalog for 
+information on the procedure to be used in dealing with academic dishonesty.</p></subsection>
 
-<p><alert>Sexual Misconduct and Relationship Violence and Title IX:</alert> Linfield University faculty are committed to supporting students and fostering a campus environment free of sexual misconduct and relationship violence. If a student
+<subsection xml:id="titleix"><title>Sexual Misconduct and Relationship Violence and Title IX:</title> <p>Linfield University faculty are committed to supporting students and fostering a campus environment free of sexual misconduct and relationship violence. If a student
 chooses to disclose to a faculty or staff member an experience related to sexual misconduct, sexual assault, domestic
 violence, dating violence, or stalking, all faculty and staff are obligated to report this disclosure to the Linfield Title
 IX Coordinator by emailing <email>titleix@linfield.edu</email>. Upon receipt of the report, the Title IX Coordinator will contact
-you to inform you of your rights and options and connect you with support services. If you would rather share infor-
-mation about these experiences with an employee who does not have these reporting responsibilities and can keep the
+you to inform you of your rights and options and connect you with support services. If you would rather share information about these experiences with an employee who does not have these reporting responsibilities and can keep the
 information confidential, please visit confidential resources: <url href="https://linfield.edu/safety/sexual-misconduct/reporting-options/confidential.html"> linfield.edu/safety/sexual-misconduct/reporting-options/confidential.html</url>.</p>
 <p>For more information about your rights and reporting options at Linfield, including confidential reporting options,
-please visit <url href="https://linfield.edu/safety/sexual-misconduct/index.html."> linfield.edu/safety/sexual-misconduct/index.html</url>. Support services are offered to all Linfield students regardless of
-whether or not they report. Still have questions? Email <email>knowmore@linfield.edu</email>.</p>
+please visit Linfield's <url href="https://linfield.edu/safety/sexual-misconduct/index.html"> Know Your Options Page</url> on the University website. Support services are offered to all Linfield students regardless of
+whether or not they report. Still have questions? Email <email>titleix@linfield.edu</email>.</p></subsection>
 
-<p><alert>Commitment to Diversity and Inclusion: </alert> Linfield University honors human rights and academic freedom,
+<subsection xml:id="diversity"><title>Commitment to Diversity and Inclusion: </title><p>Linfield University honors human rights and academic freedom,
 celebrates diverse cultures, fosters a climate of mutual respect, and promotes an inclusive environment that affirms
 the value of all persons. Dimensions of diversity can include sex, race, age, national origin, immigration status,
 ethnicity, gender identity and expression, intellectual and physical ability, sexual orientation, income, faith and
 non-faith perspectives, socio-economic class, political ideology, education, primary language, family status, military
 experience, cognitive style, and communication style. In a multi-perspective intellectual space, challenges to our
 beliefs and ideas are part of the learning process and can provide opportunities for growth. Reasoning, thoughtfulness,
-and open dialogues that honor the dignity of everyone is expected</p>
+and open dialogues that honor the dignity of everyone is expected.</p></subsection>
 
 
 </section>
