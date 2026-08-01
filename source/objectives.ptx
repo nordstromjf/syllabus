@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="objectives" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>INQS Objectives</title>
+
+  <p>The overarching goal of the Inquiry Seminar is to introduce students to the practices of inquiry, which form the foundation for the intellectual communities of the academy and the larger society. We believe this introduction is best accomplished by creating opportunities to conduct real inquiry within the classroom. We also recognize that the Inquiry Seminar is a beginning and that students will continue to develop and refine the skills and habits of inquiry across courses and disciplines during their four years of study. Specifically, the following list summarizes the learning outcomes for all Inquiry Seminars.</p>
+
+  <p>
+    <objectives>
+    <ol>
+      <li><p>Students frame key questions important to their own inquiry and to the understanding of a particular area of knowledge about which there is room for interpretation, ambiguity, and/or debate.</p></li>
+      <li><p>Students discuss, draft, compose, and reconsider answers to such questions in ways appropriate to the field and compelling to an intended audience.</p></li>
+      <li><p>Students engage and incorporate the voices of others to support their own learning and argumentation. In doing so, they will conduct research using library resources cited according to the ethical expectations of their academic community.</p></li>
+      <li><p>Students self-consciously and self-critically reflect on their own ways of thinking.</p></li>
+    </ol></objectives>
+  </p>
+
+  <!--<p>
+    
+      <objective><p>Students frame key questions important to their own inquiry and to the understanding of a particular area of knowledge about which there is room for interpretation, ambiguity, and/or debate.</p></objective>
+      <objective><p>Students discuss, draft, compose, and reconsider answers to such questions in ways appropriate to the field and compelling to an intended audience.</p></objective>
+      <objective><p>Students engage and incorporate the voices of others to support their own learning and argumentation. In doing so, they will conduct research using library resources cited according to the ethical expectations of their academic community.</p></objective>
+      <objective><p>Students self-consciously and self-critically reflect on their own ways of thinking.</p>
+    </objective>
+  </p>-->
+  
+</section>
