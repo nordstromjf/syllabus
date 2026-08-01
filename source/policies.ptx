@@ -2,25 +2,48 @@
 <section xml:id="policies" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Policies</title>
 
-  <p><alert>Attendance:</alert> You are expected to attend all classes. Discussion of the material cannot happen effectively without everyone being present and prepared. Your own writing is likely to suffer if you have not participated fully in all discussions. If you miss more than 3 classes without discussing your absences with me, you will no longer be able to make up missing in-class work. Similarly, if you are frequently late, you may lose the opprtunity to make up missed work during that time. </p>
+  <subsection xml:id="attandance"><title>Attendance:</title> <p>You are expected to attend all classes. Discussion of the material 
+  cannot happen effectively without everyone being present and prepared. Your own writing is likely to suffer if you have not 
+  participated fully in all discussions. If you miss more than 3 classes without discussing your absences with me, you will no 
+  longer be able to make up missing in-class work. Similarly, if you are frequently late, you may lose the opportunity to make up 
+  missed work during that time. </p></subsection>
 
-  <p><alert>Class Participation:</alert> You are expected to participate daily in class discussions and activities.  You need to come to class each day with a positive attitude and willingness to think about challenging ideas. You are expected to come prepared to class by having done the required readings and assignments. Our class should function as an inclusive community. Everyone needs to make room at the table for a diversity ideas and experiences. Disagreement is inevitable, and in fact, often the goal. But I expect everyone to treat each other with respect.</p>
+  <subsection xml:id="participation"><title>Class Participation:</title><p>You are expected to participate daily in class 
+  discussions and activities.  You need to come to class each day with a positive attitude and willingness to think about 
+  challenging ideas. You are expected to come prepared to class by having done the required readings and assignments. Our 
+  class should function as an inclusive community. Everyone needs to make room at the table for a diversity ideas and experiences. 
+  Disagreement is inevitable, and in fact, often the goal. But I expect everyone to treat each other with respect.</p></subsection>
 
-  <p><alert>Late Work:</alert> See specifics in <xref ref="SS_gradecomp" text="title"></xref>. Work that can be accepted late: in-class work by the next class period; Essay 1, Essay 2, Research Paper within 24 hours if requested; peer-review by the paper due date.</p>
+  <subsection xml:id="latepolicy"><title>Late Work:</title><p>See specifics in <xref ref="SS_gradecomp" text="title"></xref>. Work 
+  that can be accepted late: in-class work by the next class period; Essay 1, Essay 2, Research Paper within 24 hours if requested; 
+  peer-review by the paper due date.</p></subsection>
 
-  <p><alert>Cell Phones:</alert> Cell phones must be off and put away during class. Laptop computers and tablets are
-not required in class. If you need to use one for classroom purposes, please use them in ways
-that are focused on the course and the activities of the class.</p>
+  <subsection xml:id="phones"><title>Cell Phones:</title> <p>Cell phones must be off and put away during class. Laptop computers 
+  and tablets are not required in class. If you need to use one for classroom purposes, please use them in ways that are focused 
+  on the course and the activities of the class.</p></subsection>
 
-<p><alert>Electronic Recording/ Content Sharing:</alert> I may opt to record the classroom activities for instructional purposes
-and post them to the cloud. The electronic recording of classroom lectures, discussions, simulations, and other
-course-related activity is governed by Linfield’s Classroom Recording Policy (Faculty Handbook, VII.26 and Student
-Policy Guide).
-Students do not have permission to record any Zoom meetings. Students do not have permission to distribute or
-share any recorded content from Zoom meetings.</p>
+<subsection xml:id="recording"><title>Electronic Recording/ Content Sharing:</title><p>I may opt to record the classroom 
+activities for instructional purposes and post them to the cloud. The electronic recording of classroom lectures, discussions, 
+simulations, and other course-related activity is governed by Linfield's Classroom Recording Policy (Faculty Handbook, VII.26 and 
+Student Policy Guide). Students do not have permission to record any Zoom meetings. Students do not have permission to distribute 
+or share any recorded content from Zoom meetings.
+</p></subsection>
 
-<p><alert>Use of AI in Student-Generated Work: </alert> Students in this course are expected to use AI tools, such as Chat GPT in an ethical and responsible manner. We will discuss what this means for student work, including understanding the limitations of such tools. Use of such tools, like any other academic
-work that is not entirely the student’s own, must be cited. Work for a grade that is not primarily in the student’s
-own words and properly cited, will be considered plagiarized.</p>
+<subsection xml:id="AIuse"><title>Use of AI in Student-Generated Work: </title><p>Students in this course are expected to use AI 
+tools, such as Chat GPT, Gemini, Claude, and Copilot in an ethical and responsible manner. Since one of the purposes of this 
+course is to learn how to effectively generate and communicate your own ideas, we will discuss how AI can help or hinder learning. 
+Use of AI tools, like any other academic work that is not entirely the student's own, must be cited. Work for a grade that is not 
+primarily in the student's own words and properly cited, will be considered plagiarized.</p> 
+
+<p>If a violation is suspected, the first action will be a conversation about why your work may be read as AI generated. Work that is 
+deemed not the student's own after this conversation will receive a 0 on the entire assignment/ paper/ presentation. </p>
+
+<p>Some AI uses that are appropriate: finding sources for a paper, general brainstorming, helping you create an outline for a paper 
+based on your own ideas, helping summarize key concepts with additional examples, helping create a study plan for balancing your 
+workload. Uses that are not appropriate: generating the body of a paper, generating sources that you do not actually incorporate 
+into a paper, having AI write a paper based on your outline. </p>
+
+<p>In general, papers must incorporate YOUR ideas and reflect YOUR understanding of the concepts and issues. Generic papers (whether or 
+not they were written by AI) will not be able to earn full credit.</p></subsection>
 
 </section>
