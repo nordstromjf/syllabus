@@ -9,15 +9,21 @@
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
   </docinfo>
 
-   <article xml:id="INQS_syllabus">
+   <!-- INQS <article xml:id="INQS_syllabus">
     <title>INQS 125 Game Theory in Popular Culture</title>
     <section><title>Course Information</title>
       <p>INQS 125 01</p>
       <p>Fall 2026</p>
       <p>MWF 11:00-12:05</p>
-      <p>Graf 117 </p>
+      <p>Graf 117 </p>-->
 
-
+    <article xml:id="Discrete_syllabus">
+      <title>MATH 230 Discrete Math</title>
+      <section><title>Course Information</title>
+        <p>MATH 230 01</p>
+        <p>Fall 2026</p>
+        <p>MWF 10:00-10:50</p>
+        <p>Taylor 101 </p>
       
    <!-- <article xml:id="M150_syllabus">
     <title>MATH 150 Precalculus</title>
@@ -37,7 +43,7 @@
 <!--all courses-->
     <xi:include href="./instructorinfo.ptx" />
 
-    <!--INQS-->
+    <!--INQS
     <xi:include href="./description.ptx" />
     <xi:include href="./coursematerials.ptx" />
     <xi:include href="./objectives.ptx" />
@@ -47,8 +53,18 @@
     <xi:include href="./grading.ptx" />
     <xi:include href="./dates.ptx" />
     <xi:include href="./finalexamtime.ptx" />
-    <xi:include href="./policies.ptx" />
+    <xi:include href="./policies.ptx" />-->
 
+    <!--Discrete-->
+    <xi:include href="./description230.ptx" />
+    <xi:include href="./coursematerials230.ptx" />
+    <xi:include href="./objectives230.ptx" />
+    <xi:include href="./schedule230.ptx" />
+    <xi:include href="./community230.ptx" />
+    <xi:include href="./grading230.ptx" />
+    <xi:include href="./finalexamtime230.ptx" />
+    <xi:include href="./advising230.ptx" />
+    <xi:include href="./policies230.ptx" />
 
     <!--Precalc-->
     <!--<xi:include href="./descriptionM150.ptx" />

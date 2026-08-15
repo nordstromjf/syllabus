@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="materials230" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Materials</title>
+
+  <p>The text for this course is <url href="https://nordstrommath.com/DiscreteMathText/frontmatter.html" 
+  visual="nordstrommath.com/DiscreteMathText/"><pubtitle>Discrete Mathematics, an Active Approach to Mathematical Reasoning
+  </pubtitle></url> 
+  by Jennifer Nordstrom. The text is a free open source text.</p>
+
+  <p>We will also be accessing the text through <url href="https://landing.runestone.academy/" 
+  visual="https://landing.runestone.academy/">Runestone Academy</url>. 
+  You will need to create a free account on Runestone.
+  When you register on Runestone you will need to enroll in our course: linfield_discrete_fall26.</p>
+</section>
