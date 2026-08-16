@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Course Information",
-  "body": "Course Information  INQS 125 01  Fall 2026  MWF 11:00-12:05  Graf 117   "
+  "body": "Course Information  INQS 125 01  MWF 11:00-12:05  Graf 117     "
 },
 {
   "id": "instructorinfo",
@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Use of Blackboard",
-  "body": " Use of Blackboard  This course uses Blackboard (Linfield Learn) for course management. You should use Blackboard for the following tasks  Checking the daily schedule;  Finding all assignments and due dates;  Submitting response papers and essays;   Getting feedback on your papers;  Checking your grade during the course.   If you have questions about how to submit your work, see feedback, or find other information, please just ask. The schedule on Blackboard will have the most current information, including any adjustments to the schedule.  Some assignments are required to be turned in in hard-copy form. These include in class free-write assignments and peer review forms.  Discussion questions are to be turned in on note cards. You can get a note card from me, if you need one. Please get note cards, before they are due.  "
+  "body": " Use of Blackboard  This course uses Blackboard (Linfield Learn) for course management. You should use Blackboard for the following tasks  Checking the daily schedule;  Finding all assignments and due dates;  Submitting response papers and essays;   Getting feedback on your papers;  Checking your grade during the course.   If you have questions about how to submit your work, see feedback, or find other information, please just ask. The schedule on Blackboard will have the most current information, including any adjustments to the schedule.  Some assignments are required to be turned in in hard-copy form. These include in class free-write assignments and peer review forms.  Discussion questions are to be turned in on note cards. You can get a note card from me, if you need one. Please get note cards before they are due.  "
 },
 {
   "id": "writing",
