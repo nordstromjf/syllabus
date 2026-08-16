@@ -5,19 +5,30 @@
   <introduction><p>The following includes descriptions of the graded components of the course and the grading scale.</p>
   </introduction>
 
-  <subsection xml:id="SS_gradecomp"><title>Graded Components</title>
 
-  <paragraphs xml:id="G_inclasswriting"><title>In-Class Writing</title>
-  <p>There will be frequent in-class <q>free-write</q> questions. These are opportunities to practice putting your thoughts on 
+  <subsection xml:id="G_inclasswriting"><title>In-Class Writing</title>
+  <p>There will be daily in-class <q>free-write</q> questions. These are opportunities to practice putting your thoughts on 
   paper. They will not be graded for content or grammar, but simply for turning them in. If you are not present for a 
-  free-write assignment, you can do the free-write before the next class. Free-writes must be in hard-copy form.
+  free-write assignment, you can do the free-write before the next class. Free-writes must be in hard-copy form. These assignments 
+  will be scored 0 or 1 for submission.
 <ul>
   <li><p>How to turn in: hard copy (generally hand-written) turned in during class.</p></li>
   <li><p>Late submission accepted? Yes. Before the next class.</p></li>
 </ul>
-</p></paragraphs>
+</p></subsection>
 
-   <paragraphs xml:id="G_cardandresponse"><title>Question Cards and Reading Responses</title>
+  <subsection xml:id="G_participation"><title>Participation</title>
+    <p>You are expected to participate in class discussions and activities. You get the most out of this course if you regularly 
+    work with your peers. Part of your participation is coming to class prepared and on time. This means having your note card or 
+    response paper ready at the start of class. It also means making sure you have done the reading or film viewing before the 
+    discussion. Each class period will be scored 0 or 1 based on your attendance and preparation. These scores will be averaged
+    with your in-class writing assignments.
+
+    </p>
+  
+  </subsection>
+
+   <subsection xml:id="G_cardandresponse"><title>Question Cards and Reading Responses</title>
    <p>You will be required to turn in question cards and reading responses.  Refer to the schedule in Blackboard for due dates.  
    The cards should consist of a discussion question written on a 3x5 card; the reading response should be a one page, 
    double-spaced, typed analysis of the day's reading or viewing.  Both the card and response should reflect a thoughtful 
@@ -29,9 +40,9 @@
   <li><p>How to turn in: submit response paper in Blackboard, cards turned in at the end of class.</p></li>
   <li><p>Late submission accepted? No.</p></li>
 </ul>
-</p></paragraphs>
+</p></subsection>
 
-   <paragraphs xml:id="G_essays"><title>Essays and Research Paper</title>
+   <subsection xml:id="G_essays"><title>Essays and Research Paper</title>
    <p>During the term, you will be required to compose two analytic essays, one research paper, and one reflective essay.  
    I will review any draft you bring to my office. I encourage you to seek help from me on your essays early and often.  
    Topics for your essays will come from the in-class discussions, the assigned readings, and your own research.  
@@ -41,11 +52,11 @@
   <li><p>How to turn in: submit papers in Blackboard.</p></li>
   <li><p>Late submission accepted? Yes. A 24 hour extension is allowed if you request it before the deadline.</p></li>
 </ul>
-</p></paragraphs>
+</p></subsection>
 
 
 
-   <paragraphs xml:id="G_peerrev"><title>Peer Review</title><p>Before each major writing assignment, we will have a day of 
+   <subsection xml:id="G_peerrev"><title>Peer Review</title><p>Before each major writing assignment, we will have a day of 
    peer review. You are required to bring a hard-copy of your draft to be used for peer review. You will exchange papers with at 
    least two other students in the class. You will be required to provide constructive feedback and responses to particular aspects 
    of the papers you are reviewing. You will receive credit for having your draft and for providing feedback to your peers.
@@ -55,9 +66,9 @@
   </p></li>
   <li><p>Late submission accepted? Yes, however all peer review must be complete by paper submission deadline.</p></li>
 </ul>
-</p></paragraphs>
+</p></subsection>
 
-   <paragraphs xml:id="G_presentation"><title>Final Presentation</title><p>You will be required to do a final presentation 
+   <subsection xml:id="G_presentation"><title>Final Presentation</title><p>You will be required to do a final presentation 
    for the course.  Your presentation will provide an 8-10 minute outline of the key ideas in your final research paper. 
    You are required to attend all of the presentations. Your grade on your presentation will be reduced by 3 percentage points 
    for each presentation you miss.
@@ -65,7 +76,7 @@
   <li><p>How to turn in: submit slides on Blackboard.</p></li>
   <li><p>Late submission accepted? No. Due the at the end of the final exam time.</p></li>
 </ul>
-</p></paragraphs>
+</p></subsection>
 
   <!-- <paragraphs xml:id="G_portfolio"><title>Portfolio</title><p>You will be required to save <em>everything</em> you write for this 
    class and turn it in as a portfolio at the end of the semester. This includes all drafts! One way to save drafts is to maintain the revision history for each paper. Save everything, including in-class writing, question cards, and response papers.
@@ -75,7 +86,7 @@
 </ul>
 </p></paragraphs>-->
 
-</subsection>
+
 
 <subsection><title>Grading System</title>
 
@@ -83,27 +94,27 @@
 
 <tabular>
             <row>
-              <cell>In-class writing, peer review, other assignments</cell>
+              <cell><p>In-class writing, peer review, participation, other assignments</p></cell>
               <cell >10%</cell>
             </row>
 
             <row>
-              <cell>Question cards and reading responses</cell>
+              <cell><p>Question cards and reading responses</p></cell>
               <cell >15%</cell>
             </row>
 
             <row>
-              <cell>Essay 1, Essay 2, Reflective Essay</cell>
+              <cell><p>Essay 1, Essay 2, Reflective Essay</p></cell>
               <cell >45% (15% each)</cell>
             </row>
 
             <row>
-              <cell>Research Paper</cell>
+              <cell><p>Research Paper</p></cell>
               <cell >20%</cell>
             </row>
 
             <row>
-              <cell>Final presentation</cell>
+              <cell><p>Final presentation</p></cell>
               <cell >10%</cell>
             </row>
 
