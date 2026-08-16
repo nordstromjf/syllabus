@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Important Due Dates",
-  "body": " Important Due Dates    due 11:59 pm Friday, Oct. 2  due 11:59 Friday, October 30  due 11:59 pm, Friday, December 11  , Monday, December 7  Final Presentations, Wednesday, December 9  Final Presentations, Friday, December 11  Reflective Essay due 10:30 am Friday, December 18   "
+  "body": " Important Due Dates    due 11:59 pm Monday, Oct. 5  due 11:59 Monday, November 2  due 11:59 pm, Friday, December 11  , Monday, December 7  Final Presentations, Wednesday, December 9  Final Presentations, Friday, December 11  Reflective Essay due 10:30 am Friday, December 18   "
 },
 {
   "id": "finalexam",
