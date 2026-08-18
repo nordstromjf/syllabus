@@ -76,7 +76,7 @@
     </subsection>
 
 
-  <subsection xml:id="quizzes"><title>Proficience-Based Quizzes</title>
+  <subsection xml:id="quizzes"><title>Proficiency-Based Quizzes</title>
       <p>This course contains 18 essential types of problems. The 18 standards are listed in the Course Learning Objectives in <xref ref="objectivesM170" text="title"/>. Each objective is related to the learning outcomes in the text, such as LT1 or DF2, These outcomes also correspond to the Learning Outcomes in the CheckIt bank at the end of each section or at <url href="https://library.tbil.org/2025/calculus/exercises/\#/bank/">Calc I CheckIt</url>.</p>
 
  <p>Every two weeks there is a quiz. Each quiz will introduce 2 to 4 new objectives, as well as variations on the previous problems. The final quiz day, during the scheduled <xref ref="finalexamM170" text="title"/>, there will only be variations on previous problems.</p>
@@ -87,7 +87,7 @@
  </p>
 
 <sidebyside widths="30% 30%" valign="middle">
-<tablular>
+<tabular>
   <row header="yes" bottom="minor">
     <cell><p>Number of Concepts</p></cell>
     <cell><p>Quiz Grade</p></cell>
@@ -128,9 +128,9 @@
     <cell>9</cell>
     <cell>72</cell>
   </row>
-</tablular>
+</tabular>
 
-<tablular>
+<tabular>
   <row header="yes" bottom="minor">
     <cell><p>Number of Concepts</p></cell>
     <cell><p>Quiz Grade</p></cell>
@@ -171,7 +171,7 @@
     <cell>18</cell>
     <cell>100</cell>
   </row>
-</tablular>
+</tabular>
 </sidebyside>
 
 <p>Some advantages to this type of grading is that you get several attempts to try to master the material. It is OK to not be able to solve problems on a particular quiz day, but you do need to be able to solve the problems by the end of the course. If there are some concepts that you struggle with more than others (which there will be!) you can always come back to them later. Much of the material is cumulative, so it will be important to keep up with many of the concepts. The main disadvantage is that the system makes it trickier for you to know exactly where you stand, since you can't earn an A or B on you quiz score until we are towards the end of the semester. However, if you need help determining how you are doing in the course, just ask.

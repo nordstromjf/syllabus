@@ -14,7 +14,7 @@
         <!--<journal name="ams" /> -->
         <chunking level="1" />
         <!-- Depth for table of contents.  0 means no TOC -->
-        <tableofcontents level="1" />
+        <tableofcontents level="2" />
     </common>
 
     <numbering>
