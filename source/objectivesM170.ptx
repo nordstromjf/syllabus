@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="objectivesM170" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Goals and Objectives</title>
+
+    <objectives><title>Course Goals</title>
+    <ol>
+      <li><p>Students gain an understanding of the fundamentals of differential and
+        integral calculus and its applications in the physical and social
+        sciences.</p></li>
+      <li><p>Students solifify their abilities in the use of algebra, trigonometry, and calculus.</p></li>
+      <li><p>Students develop an appreciation for the foundations 
+        of the real number system</p></li>
+      <li><p>Students increase their problem solving abilities. </p></li>
+      <li><p>Students increase their mathematical maturity and confidence in working through mathematical challenges.</p></li>
+    </ol></objectives>
+  
+<p>The course is based around the following Course Learning Objectives.
+<ol>
+
+  <li><p>Find limits graphically, numerically, and analytically. (LT1, LT2, LT3)</p></li>
+
+<li><p>Determine where a function is and is not continuous. (LT4)</p></li>
+
+<li><p> Determine limits with infinite inputs and infinite outputs. (LT5, LT6) </p></li>
+
+<li><p>Find derivatives using the limit definition of the derivative. (DF2)</p></li>
+
+<li><p>Compute basic derivatives using algebraic rules. (DF3) </p></li>
+
+<li><p>Compute derivatives using Product, Quotient, and Chain Rules. (DF4, DF5, DF6) </p></li>
+
+<li><p>Compute derivatives of implicitly-defined functions. (DF7)  </p></li>
+
+<li><p>Compute derivatives of inverse trig functions and log functions. (DF8) </p></li>
+
+<li><p> Use the derivative to find tangent lines, and use the tangent line for linear approximation. (AD1, AD2)</p></li>
+
+<li><p>Model and analyze scenarios using related rates. (AD3)</p></li>
+
+<li><p>Use the Extreme Value Theorem to find global max and min values. (AD4)</p></li>
+
+
+<li><p>Use derivatives to determine where a function is increasing, decreasing, concave up, concave down, and to find local extrema and inflection points. (AD5, AD6, AD7)</p></li>
+
+
+<li><p>Apply optimization techniques to solve various problems. (AD8) </p></li>
+
+<li><p>Approximate definite integrals using Riemann sums. (IN2) </p></li>
+
+<li><p>Determine basic antiderivatives. (IN3)</p></li>
+<li><p>Evaluate a definite integral using the Fundamental Theorem of Calculus. (IN5) </p></li>
+<li><p>Use definite integrals to find the area under a curve and the area between curves. (IN7, IN8) </p></li>
+<li><p>Evaluate various integrals using the substitution method. (TI1) </p></li>
+
+
+</ol>
+
+</p>
+  
+  
+</section>

@@ -9,13 +9,13 @@
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
   </docinfo>
 
-   <!--INQS--> 
-   <article xml:id="INQS_syllabus">
+   <!--INQS-->
+   <!--<article xml:id="INQS_syllabus">
     <title>INQS 125 Game Theory in Popular Culture</title>
     <section><title>Course Information</title>
       <p>INQS 125 01</p>
       <p>MWF 11:00-12:05</p>
-      <p>Graf 117 </p>
+      <p>Graf 117 </p>-->
 
 <!--Discrete-->
     <!--<article xml:id="Discrete_syllabus">
@@ -25,6 +25,14 @@
         <p>Fall 2026</p>
         <p>MWF 10:00-10:50</p>
         <p>Taylor 101 </p>-->
+
+<!--Calc I-->
+   <article xml:id="CalcI_syllabus">
+    <title>MATH 170 Calculus I</title>
+    <section><title>Course Information</title>
+      <p>MATH 170 01</p>
+      <p>MTWRF 9:00-9:50</p>
+      <p>Taylor 106</p>
       
    <!-- <article xml:id="M150_syllabus">
     <title>MATH 150 Precalculus</title>
@@ -45,7 +53,7 @@
     <xi:include href="./instructorinfo.ptx" />
 
     <!--INQS-->
-    <xi:include href="./description.ptx" />
+    <!--<xi:include href="./description.ptx" />
     <xi:include href="./coursematerials.ptx" />
     <xi:include href="./objectives.ptx" />
     <xi:include href="./topics.ptx" />
@@ -54,7 +62,7 @@
     <xi:include href="./grading.ptx" />
     <xi:include href="./dates.ptx" />
     <xi:include href="./finalexamtime.ptx" />
-    <xi:include href="./policies.ptx" />
+    <xi:include href="./policies.ptx" />-->
 
     <!--Discrete-->
     <!--<xi:include href="./description230.ptx" />
@@ -66,6 +74,18 @@
     <xi:include href="./finalexamtime230.ptx" />
     <xi:include href="./advising230.ptx" />
     <xi:include href="./policies230.ptx" />-->
+
+    <!--CalcI-->
+    <xi:include href="./descriptionM170.ptx" />
+    <xi:include href="./coursematerialsM170.ptx" />
+    <xi:include href="./objectivesM170.ptx" />
+    <xi:include href="./scheduleM170.ptx" />
+    <xi:include href="./community230.ptx" />
+    <xi:include href="./tbilformat.ptx" />
+    <xi:include href="./gradingM170.ptx" />
+    <xi:include href="./finalexamtimeM170.ptx" />
+    <xi:include href="./advisingM170.ptx" />
+    <xi:include href="./policiesM170.ptx" />
 
     <!--Precalc-->
     <!--<xi:include href="./descriptionM150.ptx" />

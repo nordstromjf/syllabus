@@ -7,7 +7,10 @@
   <targets>
     <target name="web-inqs" format="html" deploy-dir="inqs"/>
     <target name="web-discrete" format="html" deploy-dir="discrete"/>
-    <target name="print" format="pdf" />
+    <target name="web-calcI" format="html" deploy-dir="calcI"/>
+    <target name="print-inqs" format="pdf" deploy-dir="inqs" output-filename="inqssyl.pdf"/>
+    <target name="print-discrete" format="pdf" deploy-dir="discrete" output-filename="discretesyl.pdf"/>
+    <target name="print-calcI" format="pdf" deploy-dir="calcI" output-filename="calcIsyl.pdf"/>
   </targets>
 </project>
 

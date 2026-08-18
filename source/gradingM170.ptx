@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="gradingM170" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Grading Information</title>
+
+  <introduction><p>The following includes descriptions of the graded components of the course and the grading scale.</p></introduction>
+
+    <subsection xml:id="G_team"><title>Team and Community</title>
+    <p>You will be working in teams of 4-6 students on in-class activities. You will not be assessed on your team's 
+    specific answers to the activities, but you will be assessed on your general engagement with your team. This includes 
+    attendance, participation, and teamwork. Your participation and team-work with your group will count toward your community 
+    grade. If you are unable to be in class, it is your responsibility to check with your team about what activities you missed.</p>
+ 
+    <p>At the end of each non-quiz week there will be a short community activity. These will generally be graded for 
+    completeness. There will also be a final reflective assignment for you to summarize your overall contributions to our 
+    community. </p>
+ 
+    <p>Over-reliance on AI tools to do mathematics is often a replacement for doing mathematics with other people. This can 
+    impact your ability to learn, evaluate, and communicate mathematics. Evidence of such use will affect your community grade. 
+    See <xref ref="AIuse" text="title"></xref> for the specifics of appropriate uses for this course.
+    </p>
+    </subsection>
+
+    <subsection xml:id="G_RAT"><title>Readiness Assurance Checks</title>
+    <p>At the start of each module, you will take a multiple choice assessment (iRAT) based on assigned material. After submitting you answers, you will work with your team on the same assessment (tRAT), submitting team answers. Your scores on both the iRAT and the tRAT will be averaged for your RAT score. If you are unable to be at class for the RAT process, you may take the iRAT within two class days. Your iRAT will stand as your score. If you miss a RAT and are unable to make it up within the two days, I will drop one RAT score. </p>
+
+
+    <p>
+    <dl>
+      <li><title>RAT 1</title><p> Thursday, Sep. 3.</p></li>
+      <li><title>RAT 2</title><p> Tuesday, Sep. 22.</p></li>
+      <li><title>RAT 3</title><p> Wednesday, Oct. 14.</p></li>
+      <li><title>RAT 4</title><p> Friday, Nov. 6.</p></li>
+    </dl>
+    </p>
+
+
+    <ul>
+      <li><p>When? Before each new chapter.</p></li>
+      <li><p>What if I miss a RAT? You can take the iRAT before the next class, but not the tRAT. Your iRAT will be used for both parts of your RAT score.</p></li>
+      <li>How do I retake a RAT? Schedule a time with me to take it within two days.</li>
+    </ul>
+  
+    </subsection>
+
+    <subsection xml:id="G_homework"><title>Homework</title>
+      <p>Homework will be due two to three times per week. It will be due at <alert>11:59 pm</alert> on the due date. All homework assignments are on <url href="https://athena.cs.linfield.edu/webwork2/MATH170-Nordstrom">WebWork</url>.
+    </p>
+
+      <p>In addition to the WeBWorK problems, you are encouraged to do CheckIt problems to practice for the Quizzes: 
+      <url href="https://library.tbil.org/2026/calculus/exercises/#/bank/">CheckIt for Calc I</url></p>
+
+      <p>I expect you to work on this course outside of class daily.  It is highly recommended that you work on the homework 
+      throughout the week so you have plenty of opportunity to get help. You can request an extension of any homework assignment. 
+      All extensions will be for 48 hours from the original due date and time. </p>
+
+      <ul>
+        <li><p>How to turn in? Submitted through WeBWork.</p></li>
+        <li><p>Late submission accepted? Yes. You may request a 48 hour extension.</p></li>
+    
+      </ul>
+     
+    </subsection>
+
+    <subsection xml:id="G_dailyquest"><title>Daily Questions</title><p>At the start of class almost every day you will 
+    be asked to answer (and turn in your answer to) the Daily Question. These will be questions on previous material. 
+    The purpose of these is primarily diagnostic, not evaluative. They will be graded on a pass/ no pass (P/NP) basis. 
+    You may receive a NP on five Daily Questions with no penalty, after that, you will lose 3% of the Daily Question grade 
+    for each NP. There are absolutely no make-up questions. A missed Daily Question counts as a NP. It is important to arrive 
+    to class on time, as these will only take a few minutes. Excused absences such as for athletics or field trips will not 
+    count against your Daily Question grade.</p>
+
+    <ul>
+      <li><p>How to turn in? Done on paper and turned in during class.</p></li>
+      <li><p>Late submission accepted? No.</p></li>
+    </ul>
+    </subsection>
+
+
+  <subsection xml:id="quizzes"><title>Proficience-Based Quizzes</title>
+      <p>This course contains 18 essential types of problems. The 18 standards are listed in the Course Learning Objectives in <xref ref="objectivesM170" text="title"/>. Each objective is related to the learning outcomes in the text, such as LT1 or DF2, These outcomes also correspond to the Learning Outcomes in the CheckIt bank at the end of each section or at <url href="https://library.tbil.org/2025/calculus/exercises/\#/bank/">Calc I CheckIt</url>.</p>
+
+ <p>Every two weeks there is a quiz. Each quiz will introduce 2 to 4 new objectives, as well as variations on the previous problems. The final quiz day, during the scheduled <xref ref="finalexamM170" text="title"/>, there will only be variations on previous problems.</p>
+
+<p>On each objective you will be scored Proficient (P), Developing (D), or Novice (N). <q>Proficient</q> means you have demonstrated a solid mastery of the concept. <q>Developing</q> means you are on your way to mastery, but still need to clarify some details. <q>Novice</q> means you have yet to demonstrate an understanding of the concept and need to carefully study it some more. Only the score of <q>Proficient</q> earns credit for the concept. You may attempt the concepts that you have not earned <q>Proficient</q> on again at the next quiz. There are 18 objectives and 6 quizzes, so it is reasonable to study to pass 3 objectives at each quiz. once you have demonstrated proficiency, you do not need to attempt it on a future quiz.</p>
+
+<p>Your quiz grade will be determined by the number of concepts for which you have earned <q>Proficient.</q> You will get 8 points for each of the first 9 concepts you master, then for the next 9, you will earn 3 points for each <q>Proficient.</q>
+ </p>
+
+<sidebyside widths="30% 30%" valign="middle">
+<tablular>
+  <row header="yes" bottom="minor">
+    <cell><p>Number of Concepts</p></cell>
+    <cell><p>Quiz Grade</p></cell>
+  </row>
+  <row>
+    <cell>1</cell>
+    <cell>8</cell>
+  </row>
+  <row>
+    <cell>2</cell>
+    <cell>18</cell>
+  </row>
+  <row>
+    <cell>3</cell>
+    <cell>24</cell>
+  </row>
+  <row>
+    <cell>4</cell>
+    <cell>32</cell>
+  </row>
+  <row>
+    <cell>5</cell>
+    <cell>40</cell>
+  </row>
+  <row>
+    <cell>6</cell>
+    <cell>48</cell>
+  </row>
+  <row>
+    <cell>7</cell>
+    <cell>56</cell>
+  </row>
+  <row>
+    <cell>8</cell>
+    <cell>64</cell>
+  </row>
+  <row>
+    <cell>9</cell>
+    <cell>72</cell>
+  </row>
+</tablular>
+
+<tablular>
+  <row header="yes" bottom="minor">
+    <cell><p>Number of Concepts</p></cell>
+    <cell><p>Quiz Grade</p></cell>
+  </row>
+  <row>
+    <cell>10</cell>
+    <cell>76</cell>
+  </row>
+  <row>
+    <cell>11</cell>
+    <cell>79</cell>
+  </row>
+  <row>
+    <cell>12</cell>
+    <cell>82</cell>
+  </row>
+  <row>
+    <cell>13</cell>
+    <cell>85</cell>
+  </row>
+  <row>
+    <cell>14</cell>
+    <cell>88</cell>
+  </row>
+  <row>
+    <cell>15</cell>
+    <cell>91</cell>
+  </row>
+  <row>
+    <cell>16</cell>
+    <cell>94</cell>
+  </row>
+  <row>
+    <cell>17</cell>
+    <cell>97</cell>
+  </row>
+  <row>
+    <cell>18</cell>
+    <cell>100</cell>
+  </row>
+</tablular>
+</sidebyside>
+
+<p>Some advantages to this type of grading is that you get several attempts to try to master the material. It is OK to not be able to solve problems on a particular quiz day, but you do need to be able to solve the problems by the end of the course. If there are some concepts that you struggle with more than others (which there will be!) you can always come back to them later. Much of the material is cumulative, so it will be important to keep up with many of the concepts. The main disadvantage is that the system makes it trickier for you to know exactly where you stand, since you can't earn an A or B on you quiz score until we are towards the end of the semester. However, if you need help determining how you are doing in the course, just ask.
+</p>
+      <p>
+      <dl>
+        <li><title>Quiz 1</title><p> Friday, Sep. 18.</p></li>
+        <li><title>Quiz 2</title><p> Friday, Oct. 2.</p></li>
+        <li><title>Quiz 3</title><p> Friday, Oct. 16.</p></li>
+        <li><title>Quiz 4</title><p> Friday, Oct. 30.</p></li>
+        <li><title>Quiz 5</title><p> Friday, Nov. 13.</p></li>
+        <li><title>Quiz 6</title><p> Friday, Dec. 4.</p></li>
+        <li><title>Quiz 7</title><p> Retakes only. Wednesday, Dec. 16, 8:00 am.</p></li>
+      </dl>
+      </p>
+
+
+      <p>
+      <ul>
+        <li><p>When? Every other Friday.</p></li>
+        <li><p>What if I miss a quiz? You can retake any of the standards at the next scheduled quiz time.</p></li>
+      </ul>
+      </p>
+    </subsection>
+
+
+<subsection><title>Grading System</title>
+
+<p>Grades will be determined as follows:</p>
+
+<tabular>
+            <row>
+              <cell>Community and Team</cell>
+              <cell >15%</cell>
+            </row>
+            <row>
+              <cell>RATs</cell>
+              <cell >10%</cell>
+            </row>
+            <row>
+              <cell>Homework</cell>
+              <cell >15%</cell>
+            </row>
+            <row>
+              <cell>Daily Questions</cell>
+              <cell >10%</cell>
+            </row>
+            <row>
+              <cell>Proficiency Quizzes</cell>
+              <cell >50%</cell>
+            </row>
+
+            
+
+            <row>
+              <cell>Team and Community</cell>
+              <cell >10%</cell>
+            </row>
+
+
+</tabular>
+
+<p>Letter grades correspond to the following percentages:</p>
+
+<tabular>
+  <row>
+              <cell>A-, A</cell>
+              <cell >90-100%</cell>
+            </row>
+
+            <row>
+              <cell>B-, B, B+</cell>
+              <cell >80-89%</cell>
+            </row>
+
+            <row>
+              <cell>C-, C, C+</cell>
+              <cell >65-79%</cell>
+            </row>
+
+            <row>
+              <cell>D</cell>
+              <cell >55-64%</cell>
+            </row>
+
+          
+</tabular>
+
+</subsection>
+</section>
