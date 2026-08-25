@@ -4,7 +4,7 @@
 
   <p>Tentative Daily schedule for Calculus I</p>
     <tabular>
-    <col width="10%"/><col width="15%"/><col width="15%"/><col width="15%"/><col width="15%"/>
+    <col width="10%"/><col width="15%"/><col width="15%"/><col width="15%"/><col width="15%"/><col width="15%"/>
       <row header="yes" bottom="minor" align="center">
         <cell >Week</cell>
         <cell >Mon</cell>
