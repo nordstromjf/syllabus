@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Course Information",
-  "body": "Course Information  INQS 125 01  MWF 11:00-12:05  Graf 117     "
+  "body": "Course Information  INQS 125 01  MWF 11:00-12:05  Graf 117       "
 },
 {
   "id": "instructorinfo",
@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Writing Center",
-  "body": " Writing Center  When working on writing assignments for this class, I encourage you to take advantage of the Linfield Writing Center. The Writing Center is a drop-in service that provides help with all parts of the writing process–brainstorming, drafting, revising, refining. The Writing Center can help you with your thesis, organization, logic and reasoning, evidence, documentation, grammar and usage and more. The Writing Center is located in Nicholson Library. There is more information available on their website: Linfield Writing Center .  The Writing Center offers in-person and online video appointments, as well as e-tutoring. The hours are Monday-Thursday 3pm-10pm, and Friday 12pm-5pm.  You can book appointments at Writing Center Booking  "
+  "body": " Writing Center  When working on writing assignments for this class, I encourage you to take advantage of the Linfield Writing Center. The Writing Center is a drop-in service that provides help with all parts of the writing process–brainstorming, drafting, revising, refining. The Writing Center can help you with your thesis, organization, logic and reasoning, evidence, documentation, grammar and usage and more. The Writing Center is located in Nicholson Library. There is more information available on their website: Linfield Writing Center .  The Writing Center offers in-person appointments. The hours are Monday-Thursday 12PM-9PM, and Friday 12PM-5PM in the Nicholson Library.  You can book appointments at Writing Center Booking  "
 },
 {
   "id": "grading",
